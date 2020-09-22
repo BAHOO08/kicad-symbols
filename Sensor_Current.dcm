@@ -1488,6 +1488,12 @@ K current transducer
 F https://www.lem.com/sites/default/files/products_datasheets/la_100-p_e_.pdf
 $ENDCMP
 #
+$CMP LA25-NP
+D Current Transducer, 25A, Bipolar, +/-15V
+K current transducer
+F https://www.lem.com/sites/default/files/products_datasheets/la%2025-np.pdf
+$ENDCMP
+#
 $CMP LA25-P
 D Current Transducer, 25A, Bipolar, +/-15V
 K current transducer
